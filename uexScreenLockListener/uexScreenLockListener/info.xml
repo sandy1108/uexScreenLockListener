@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexScreenLockListener" version="3.0.1" build="1">
+        <info>1:增加退出应用时的自动退出监听，防止可能性崩溃</info>
+        <build>0:锁屏监听插件</build>
+    </plugin>
+</uexplugins>
